@@ -18,7 +18,7 @@
 
 ## Live Demo
 
-🚀 Check out the live project: [BitForms](http://bitforms.42web.io)
+🚀 Check out the live project: [BitForms](https://tamilkavis.github.io/Bitforms/))
 
 ## Features
 
@@ -41,7 +41,7 @@ To run BitForms locally, follow these steps:
 
 1. Clone the repository 📥:
     ```bash
-    git clone https://github.com/premnath018/bitforms.git
+    git clone https://github.com/tamilkavis/Bitforms.git
     ```
 2. Navigate to the project directory 📁:
     ```bash
@@ -56,7 +56,7 @@ To run BitForms locally, follow these steps:
 ## Contributors
 
 👤 **Contributors**:
-- [Premnath](https://github.com/premnath018) - Creator and Maintainer 💻
+- [TamilKavi S](https://github.com/tamilkavis) - Developer 💻
 
 ## License
 
